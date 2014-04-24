@@ -1,0 +1,13 @@
+#customers_listing {
+    width: 300px;
+}
+
+table.no-pad td  {
+    padding: 0;
+}
+#from-to-to {
+    margin-bottom: 10px;
+}
+.error {
+    border: 1px solid red !important;
+}
